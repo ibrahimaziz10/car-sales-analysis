@@ -80,5 +80,5 @@ This analysis reveals that **Toyota & Suzuki dominate Pakistan’s car market**,
 
 ## 👨‍💻 Author
 **Muhammad Ibrahim Aziz Khan**  
-- 📬 [LinkedIn](#) *(www.linkedin.com/in/muhammad-ibrahim-aziz-khan-090a27262)*  
+- 📬 [LinkedIn](https://www.linkedin.com/in/muhammad-ibrahim-aziz-khan-090a27262)
 
