@@ -82,3 +82,12 @@ This analysis reveals that **Toyota & Suzuki dominate Pakistan’s car market**,
 **Muhammad Ibrahim Aziz Khan**  
 - 📬 [LinkedIn](https://www.linkedin.com/in/muhammad-ibrahim-aziz-khan-090a27262)
 
+## 📜 License
+This project uses the "Pakistan Used Cars Dataset" created by Karim Ali, available on Kaggle. The original dataset is © the original author.
+
+Data cleaning, analysis, and additional work by Muhammad Ibrahim Aziz Khan are licensed under the MIT License. See LICENSE.txt for details.
+
+This project is licensed under the [MIT License](./LICENSE).  
+You are free to use, modify, and distribute this work with proper attribution.  
+
+⚠️ Note: The dataset used in this project belongs to Kaggle and is subject to their terms of use.  
